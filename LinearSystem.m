@@ -1,5 +1,5 @@
 %[text] # Creating Linear Discrete System
-a=5;
+%[text] 
 
 %[appendix]{"version":"1.0"}
 %---
